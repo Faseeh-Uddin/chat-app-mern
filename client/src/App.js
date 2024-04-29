@@ -5,7 +5,7 @@ import LoginSignupForm from "./modules/loginSignupForm";
 
 function App() {
   return (
-    <div className="bg-[#333435] h-screen flex justify-center items-center">
+    <div className="bg-dark-gray h-screen flex justify-center items-center">
       <LoginSignupForm />
     </div>
   );
